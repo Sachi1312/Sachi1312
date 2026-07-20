@@ -53,8 +53,8 @@ I architect and deploy end-to-end AI systems from multi-agent LangGraph pipeline
 ###  GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachi1312&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachi1312&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sachi1312&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Sachi1312&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
