@@ -6,8 +6,7 @@ Final-year B.Tech in Artificial Intelligence & Data Science, KJ Somaiya School o
 I architect and deploy end-to-end AI systems from multi-agent LangGraph pipelines to production-style full-stack platforms with hands-on experience in automation, security tooling, and system design.
 
 📍 Mumbai, India · 🟢 Open to work
-🔗 [LinkedIn](https://linkedin.com/in/sachi-parekh) · 📧 [parekhsachi04@gmail.com](mailto:parekhsachi04@gmail.com) · 🌐 [Portfolio](https://sachi-portfolio-ten.vercel.app/)
-
+🔗 [LinkedIn](https://linkedin.com/in/sachi-parekh) · 📧 [parekhsachi04@gmail.com](mailto:parekhsachi04@gmail.com) 
 ---
 
 ### 🛠️ Technical Stack
